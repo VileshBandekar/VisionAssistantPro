@@ -145,7 +145,7 @@ GEMINI_VOICES = [
 BASE_LANGUAGES = [
     ("Arabic", "ar"), ("Bulgarian", "bg"), ("Chinese", "zh"), ("Czech", "cs"), ("Danish", "da"),
     ("Dutch", "nl"), ("English", "en"), ("Finnish", "fi"), ("French", "fr"),
-    ("German", "de"), ("Greek", "el"), ("Hebrew", "he"), ("Hindi", "hi"),
+    ("German", "de"), ("Greek", "el"), ("Hebrew", "he"),
     ("Hungarian", "hu"), ("Indonesian", "id"), ("Italian", "it"), ("Japanese", "ja"),
     ("Korean", "ko"), ("Nepali", "ne"), ("Norwegian", "no"), ("Persian", "fa"), ("Polish", "pl"),
     ("Portuguese", "pt"), ("Romanian", "ro"), ("Russian", "ru"), ("Spanish", "es"),
