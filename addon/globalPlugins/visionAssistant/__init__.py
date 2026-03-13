@@ -150,7 +150,13 @@ BASE_LANGUAGES = [
     ("Korean", "ko"), ("Nepali", "ne"), ("Norwegian", "no"), ("Persian", "fa"), ("Polish", "pl"),
     ("Portuguese", "pt"), ("Romanian", "ro"), ("Russian", "ru"), ("Spanish", "es"),
     ("Swedish", "sv"), ("Thai", "th"), ("Turkish", "tr"), ("Ukrainian", "uk"),
-    ("Vietnamese", "vi")
+    ("Vietnamese", "vi"),
+    ("Assamese", "as"), ("Bengali", "bn"), ("Bodo", "brx"), ("Dogri", "doi"),
+    ("Gujarati", "gu"), ("Hindi", "hi"), ("Kannada", "kn"), ("Kashmiri", "ks"),
+    ("Konkani", "gom"), ("Maithili", "mai"), ("Malayalam", "ml"), ("Manipuri", "mni"),
+    ("Marathi", "mr"), ("Nepali", "ne"), ("Odia", "or"), ("Punjabi", "pa"),
+    ("Sanskrit", "sa"), ("Santali", "sat"), ("Sindhi", "sd"), ("Tamil", "ta"),
+    ("Telugu", "te"), ("Urdu", "ur")
 ]
 SOURCE_LIST = [("Auto-detect", "auto")] + BASE_LANGUAGES
 SOURCE_NAMES = [x[0] for x in SOURCE_LIST]
